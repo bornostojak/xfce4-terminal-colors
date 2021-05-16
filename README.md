@@ -6,7 +6,7 @@ These colorschemes are open for anyone to download.
 
 ## Instalation
 To use the colors you will need to have installed the xfce4 terminal emulator. 
-To install the colorschemes you can run the following line of code:
+To install the colorschemes you can run the following command:
 
 `curl -fsSL https://raw.github.com/bornostojak/xfce4-terminal-colors/main/install.sh | sh`
 
