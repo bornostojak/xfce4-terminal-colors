@@ -1,6 +1,7 @@
 # XFCE4 Colorschemes
 
-Colorschemes for the XFCE4 terminal emulator made in my taste
+Colorschemes for the XFCE4 terminal emulator made in my taste. 
+
 These colorschemes are open for anyone to download.
 
 
